@@ -1,7 +1,3 @@
-[TOC]
-
-
-
 # ucore
 
 ucore是清华大学的关于操作系统的实验,手动实现一个小型的操作系统
@@ -13,7 +9,6 @@ ucore是清华大学的关于操作系统的实验,手动实现一个小型的�
 - [ucore labs 1-8 源码](https://github.com/chyyuu/ucore_lab)
 - [os tutorial lab](https://github.com/chyyuu/os_tutorial_lab)
 
-![image-20200215142049634](/Users/dylan/Library/Application Support/typora-user-images/image-20200215142049634.png)
 
 ## 实验一:系统软件启动过程
 
